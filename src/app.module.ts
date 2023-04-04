@@ -10,9 +10,9 @@ import { UsersModule } from './modules/users.module';
       type: 'mysql',
       host: 'aws.connect.psdb.cloud',
       port: 3306,
-      username: 'xrgeefyqsrcfd0ohovqs',
-      password: 'pscale_pw_URTbptjJR0wuKeBGlg09Fv5ucWzrnPk9RaVLUsemPAe',
-      database: 'starterpack',
+      username: '***',
+      password: '***',
+      database: '***',
       autoLoadEntities: true,
       synchronize: false,
       ssl: {
